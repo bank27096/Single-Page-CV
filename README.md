@@ -5,4 +5,5 @@ Current Status:
  Phase 1: Semantic HTML Structure 
  Phase 2: Styling with CSS
  Phase 3: Interactivity with JavaScript
- Project URL:
+ Project URL: https://github.com/bank27096/Single-Page-CV.git
+ URL: https://roadmap.sh/projects/single-page-cv
